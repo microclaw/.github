@@ -1,4 +1,4 @@
-## Hello MicroClaw 👋 Hello SkillsYoga 👋
+## Hello MicroClaw 👋
 
 <!--
 
